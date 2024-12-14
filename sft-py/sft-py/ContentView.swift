@@ -8,7 +8,6 @@
 import SwiftUI
 import PythonKit
 
-let pythonText =
 
 struct ContentView: View {
     var body: some View {
@@ -16,7 +15,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("asdasd")
         }
         .padding()
     }

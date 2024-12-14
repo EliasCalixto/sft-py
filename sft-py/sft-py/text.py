@@ -1,4 +1,3 @@
-#
 //  text.py
 //  sft-py
 //
